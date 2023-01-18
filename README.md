@@ -9,7 +9,6 @@ I'm interseted in:
 <img src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png" width="50" height="50" align="top" />
 <img src="https://static.javatpoint.com/tutorial/rust/images/rust-tutorial.jpg" width="50" height="50" align="top" />
 <img src="https://wiki.riscv.org/download/attachments/327682/global.logo?version=1&modificationDate=1595355915335&api=v2" width="60" height="50" align="top" />
-<img src="https://th.bing.com/th/id/OIP.Oy4l24g_6CAuk2WIRHiFqAAAAA?pid=ImgDet&rs=1" width="75" height="50" align="top"/>
 
 <!---
 qian160/qian160 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
