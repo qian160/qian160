@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @qian160, a college student from China
 - 👀 I’m interested in computer science and animes
-- 🌱 I’m currently preparing for exams
+- 🌱 I’m currently preparing for exams...
 - 📫 How to reach me ...qq1601315694
 
- My favourite programming languages are:
+ My favourite programming languages:
 
 <img src="https://scala-lang.org/resources/img/frontpage/scala-spiral.png" width="50" height="50" align="top" /><img src="https://tse1-mm.cn.bing.net/th/id/OIP-C.a6INfXu1tsL7Nyn0HQlcsQHaIU?pid=ImgDet&rs=1" width="50" height="50" align="top" />
 <img src="https://www.pngitem.com/pimgs/m/31-312155_c-programming-language-logo-hd-png-download.png" width="50" height="50" align="top" />
