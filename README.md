@@ -1,5 +1,5 @@
 Hi there, my ![Visitor Count](https://profile-counter.glitch.me/qian160/count.svg) visitor. Wish you a happy day! 😃
-- 👋 Hi, I’m @qian160, a college student from Ch
+- 👋 Hi, I’m @qian160, a college student from China
 - 👀 I’m interested in computer science and animes
 - 🌱 I’m currently preparing for exams...
 - 📫 How to reach me ...qq1601315694
