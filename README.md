@@ -6,10 +6,22 @@
 </p>
 
 <p align="center">
-  <img align="center" alt="Coding" width="200" src="https://i0.hdslb.com/bfs/article/84a99833b538f062375f49ebaa8c97d437141e54.gif@600w_525h_progressive.webp">
+  <!--
+    <img align="center" alt="Coding" width="200" src="https://i0.hdslb.com/bfs/article/84a99833b538f062375f49ebaa8c97d437141e54.gif@600w_525h_progressive.webp">
+  -->
   <a href="https://github.com/qian160"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qian160&layout=compact"></a>
-  <img align="center" alt="Coding" width="200" src="https://i0.hdslb.com/bfs/article/84a99833b538f062375f49ebaa8c97d437141e54.gif@600w_525h_progressive.webp">
+  <!--
+    <img align="center" alt="Coding" width="200" src="https://i0.hdslb.com/bfs/article/84a99833b538f062375f49ebaa8c97d437141e54.gif@600w_525h_progressive.webp">
+  -->
 </p>
+
+<p align="center">
+  <img align="center" alt="Coding" width="200" src="https://i0.hdslb.com/bfs/article/d46993628bb3c65eb577b8b7dd39b52ce605c9ab.gif@750w_675h_progressive.webp">
+  <img align="center" alt="Coding" width="200" src="https://i0.hdslb.com/bfs/article/644290b1c5d4f503f77cb2e8a103091d42c4df5a.gif@750w_675h_progressive.webp">
+  <img align="center" alt="Coding" width="200" src="https://i0.hdslb.com/bfs/article/cf9dde763919d22e88e61fb43eb71c15ce9500cd.gif@750w_675h_progressive.webp">
+  <img align="center" alt="Coding" width="200" src="https://i0.hdslb.com/bfs/article/8c7786afa65a978a9077a547c5862923aebfaf97.gif@750w_675h_progressive.webp">
+</p>
+
 
 <p align="center">
   <strong><a href="https://space.bilibili.com/45374320?spm_id_from=333.1007.0.0">bilibili</a></strong> |
