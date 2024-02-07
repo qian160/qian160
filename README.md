@@ -31,8 +31,6 @@
   <strong><a href="https://github.com/qian160">Twitch</a></strong>
 </p>
 
-<p align="center">❤ I dream of doing something related to system programming and computer architecture</p>
-
 
 <!--
 **qian160/qian160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
