@@ -25,10 +25,10 @@
 
 <p align="center">
   <strong><a href="https://space.bilibili.com/45374320?spm_id_from=333.1007.0.0">bilibili</a></strong> |
+  <strong><a href="https://www.zhihu.com/people/la-lune-33">zhihu</a></strong> |
   <strong><a href="https://github.com/qian160">Twitter</a></strong> |
   <strong><a href="https://github.com/qian160">Discord</a></strong> |
-  <strong><a href="https://github.com/qian160">LinkedIn</a></strong> |
-  <strong><a href="https://github.com/qian160">Twitch</a></strong>
+  <strong><a href="https://github.com/qian160">LinkedIn</a></strong>
 </p>
 
 
